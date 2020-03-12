@@ -48,6 +48,7 @@ while i:
     choice = str(input("Choose a year: \n"))
     if choice == '2010':
         twenty_10()
+        helloworld
 
 
 #url = "https://data.lacity.org/resource/d5tf-ez2w.json?$where=date_occ+between+'2015-01-10T00:00:00.000'+and+'2015-01-11T00:00:00.000'"
